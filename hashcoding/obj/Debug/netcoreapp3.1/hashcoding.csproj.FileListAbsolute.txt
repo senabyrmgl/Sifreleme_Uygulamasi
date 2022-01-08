@@ -1,0 +1,17 @@
+C:\Users\90505\source\repos\hashcoding\hashcoding\bin\Debug\netcoreapp3.1\hashcoding.exe
+C:\Users\90505\source\repos\hashcoding\hashcoding\bin\Debug\netcoreapp3.1\hashcoding.deps.json
+C:\Users\90505\source\repos\hashcoding\hashcoding\bin\Debug\netcoreapp3.1\hashcoding.runtimeconfig.json
+C:\Users\90505\source\repos\hashcoding\hashcoding\bin\Debug\netcoreapp3.1\hashcoding.runtimeconfig.dev.json
+C:\Users\90505\source\repos\hashcoding\hashcoding\bin\Debug\netcoreapp3.1\hashcoding.dll
+C:\Users\90505\source\repos\hashcoding\hashcoding\bin\Debug\netcoreapp3.1\hashcoding.pdb
+C:\Users\90505\source\repos\hashcoding\hashcoding\obj\Debug\netcoreapp3.1\hashcoding.csproj.AssemblyReference.cache
+C:\Users\90505\source\repos\hashcoding\hashcoding\obj\Debug\netcoreapp3.1\hashcoding.Form1.resources
+C:\Users\90505\source\repos\hashcoding\hashcoding\obj\Debug\netcoreapp3.1\hashcoding.csproj.GenerateResource.cache
+C:\Users\90505\source\repos\hashcoding\hashcoding\obj\Debug\netcoreapp3.1\hashcoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90505\source\repos\hashcoding\hashcoding\obj\Debug\netcoreapp3.1\hashcoding.AssemblyInfoInputs.cache
+C:\Users\90505\source\repos\hashcoding\hashcoding\obj\Debug\netcoreapp3.1\hashcoding.AssemblyInfo.cs
+C:\Users\90505\source\repos\hashcoding\hashcoding\obj\Debug\netcoreapp3.1\hashcoding.csproj.CoreCompileInputs.cache
+C:\Users\90505\source\repos\hashcoding\hashcoding\obj\Debug\netcoreapp3.1\hashcoding.dll
+C:\Users\90505\source\repos\hashcoding\hashcoding\obj\Debug\netcoreapp3.1\hashcoding.pdb
+C:\Users\90505\source\repos\hashcoding\hashcoding\obj\Debug\netcoreapp3.1\hashcoding.genruntimeconfig.cache
+C:\Users\90505\source\repos\hashcoding\hashcoding\obj\Debug\netcoreapp3.1\hashcoding.Properties.Resources.resources
